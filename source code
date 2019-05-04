@@ -3,7 +3,10 @@
 // u: the total number of the stones 
 // v: the number of stones picked each time by player 1
 // x: the number of stones picked each time by player 2
-// system: the number of stones to pick, which is recommended by the computer 
+// system: the number of stones to pick, which is recommended by the computer
+// there are 30~50 stones in total, each time, a player could pick 1 or 2 or 3 
+   stones. The player who executes the last pick will win. The system will also
+   give recommendation on what number to pick
 //****************************************************************************
 
 public class nimgame
